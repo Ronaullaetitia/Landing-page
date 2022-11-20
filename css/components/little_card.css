@@ -1,0 +1,12 @@
+.card-body{
+    background-color: white;
+}
+.card-title{
+    background-color: rgb(255, 255, 255);
+}
+.card-text{
+    background-color: rgb(255, 252, 252);
+}
+h4{
+    color: blue;
+}
